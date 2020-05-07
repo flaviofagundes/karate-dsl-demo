@@ -1,4 +1,4 @@
-Feature: consumindo api demo
+Feature: serviço de gestão de posts
   
   Scenario: validar disponibilidade da consulta de posts
     Given url   urlBase 
